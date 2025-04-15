@@ -5,17 +5,19 @@
 
 ---
 
-## 🧠 Comandos disponibles
+## 📜 Comandos disponibles
 
 | Comando     | Descripción                                                                 |
 |-------------|-----------------------------------------------------------------------------|
 | `!jugar`    | Elige un juego aleatorio para que juegues con el chat                      |
 | `!mide`     | ¿Curioso? Te dice cuánto le mide (con respeto 😎)                           |
-| `!dado`     | Tira un dado mágico... nunca sabes qué pasará 🎲                            |
 | `!pelea`    | Enfrenta a 2 usuarios al azar y pregunta quién ganará 🥊                    |
 | `!f`        | F en el chat por las cagadas del streamer                                  |
 | `!suerte`   | Tu dosis de suerte diaria 💫                                               |
-| `!amor`     | El carnalito te lanza un piropo hermoso ❤️                                 |
+| `!pant`     | Simula la plantancion de bomba                                 |
+| `!hola`     | Saluda al chat                                 |
+
+Y muchos más ➕
 
 ---
 
