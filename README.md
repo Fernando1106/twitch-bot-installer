@@ -1,4 +1,4 @@
-# 🤖 CarnalitoBot - Tu compañero para Twitch
+# 🤖 CarnalitoBot(FREE) - Tu compañero para Twitch
 
 ¡Bienvenido al bot más carismático del stream!  
 **CarnalitoBot** es un bot interactivo para Twitch que hace que tu chat se divierta a lo grande 🔥
@@ -11,13 +11,12 @@
 |-------------|-----------------------------------------------------------------------------|
 | `!jugar`    | Elige un juego aleatorio para que juegues con el chat                      |
 | `!mide`     | ¿Curioso? Te dice cuánto le mide (con respeto 😎)                           |
-| `!pelea`    | Enfrenta a 2 usuarios al azar y pregunta quién ganará 🥊                    |
 | `!f`        | F en el chat por las cagadas del streamer                                  |
-| `!suerte`   | Tu dosis de suerte diaria 💫                                               |
+| `!stream`   | Un poco de informacion del canal 💫                                               |
 | `!pant`     | Simula la plantancion de bomba                                 |
 | `!hola`     | Saluda al chat                                 |
 
-Y muchos más ➕
+Y muchos más (PRO) ➕
 
 ---
 
