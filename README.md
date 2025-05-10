@@ -39,7 +39,7 @@ Haz clic en el botón de instrucciones en la página principal para ver cómo in
 
 ¡Contáctame para hacerlo único para tu canal!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contáctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1234567890)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contáctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+51918485870)
 
 ---
 
